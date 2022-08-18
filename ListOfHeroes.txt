@@ -2,4 +2,8 @@
 
 2.Iron Man - Im Inevitable
 
+<<<<<<< HEAD
 3.Hulk - Strongest Avenger
+=======
+3.Thor - Is the strongest Avenger
+>>>>>>> c9e7430385e6f25ea6417f316fe4f88b1787843a
